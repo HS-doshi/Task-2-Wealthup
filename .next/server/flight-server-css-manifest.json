@@ -1,0 +1,12 @@
+{
+  "cssImports": {
+    "C:\\Users\\world\\OneDrive\\Desktop\\wealth - todo -task\\todo_task_2\\src\\app\\layout.tsx": [
+      "C:\\Users\\world\\OneDrive\\Desktop\\wealth - todo -task\\todo_task_2\\src\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\world\\OneDrive\\Desktop\\wealth - todo -task\\todo_task_2\\src\\app\\page": [
+      "C:\\Users\\world\\OneDrive\\Desktop\\wealth - todo -task\\todo_task_2\\src\\app\\globals.css"
+    ]
+  }
+}
